@@ -1,7 +1,8 @@
-<h1 align="center">yo <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1xcnhwM3MzeGNtNXRlaXhkdjE4b2VoYjhsc2tzcjBlcXduc2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VCzTnU7UvinaIV84Wd/giphy.gif" height="30px" width="30px"> I'm syz</h1>
+<h1 align="center">yo I'm syz</h1>
 <h3 align="center">Full-Stack Web Developer | Software Engineer</h3>
 <p> 
   im really just a normal dev 
+  <img align="center" src="https://tenor.com/kCUMASRGXm5.gif" width="90px" height="90px">
 </p>
 
 <p align="center">
