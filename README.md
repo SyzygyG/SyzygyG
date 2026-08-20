@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer | Software Engineer</h3>
 <p> 
   im really just a normal dev 
-  <img align="center" src="https://tenor.com/kCUMASRGXm5.gif" width="90px" height="90px">
+  <img align="center" src="https://raw.githubusercontent.com/MemeTray/gifs-miku/refs/heads/main/miku/0007_miku.gif" width="90px" height="90px">
 </p>
 
 <p align="center">
